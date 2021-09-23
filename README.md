@@ -1,6 +1,6 @@
 # Resume 2021.9
 
-### [엄지수](https://thumbsu.dev/)
+### [박현용]
 ![aaaa](https://user-images.githubusercontent.com/91231739/134475065-d6ac103c-6a24-421a-83a0-8f81151085dd.jpg)
 
 ---
