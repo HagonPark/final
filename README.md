@@ -40,3 +40,4 @@ TOFEL (2022.02- 예정) // 졸업 후 진로로 취업 이외에 대학원 진�
 
 ### 향후 계획표
 ![sssssss](https://user-images.githubusercontent.com/91231739/134494076-27db9969-6f2a-437f-90bc-5d0e9a2fc1ab.jpg)
+[계획표](https://trello.com/b/lDZi8qNq/test)
