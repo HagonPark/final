@@ -2,7 +2,9 @@
 
 ### [박현용]
 ![www](https://user-images.githubusercontent.com/91231739/134493271-793ef33f-1bff-494d-9802-821950af07bf.jpg)
-
+- Email: qkrhy97@gmail.com
+- phone number:010-6693-6938
+- GitHub: https://github.com/HagonPark
 
 ---
 
