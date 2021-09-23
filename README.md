@@ -1,7 +1,7 @@
 # Resume 2021.9
 
 ### [박현용]
-![aaaaaaaaaaa](https://user-images.githubusercontent.com/91231739/134492317-0c8fdad5-2cbc-4cb9-92a7-0bf762d95c59.jpg" width="100px")
+![aaaaaaaaaaa](https://user-images.githubusercontent.com/91231739/134492317-0c8fdad5-2cbc-4cb9-92a7-0bf762d95c59.jpg width="100px")
 
 
 ---
